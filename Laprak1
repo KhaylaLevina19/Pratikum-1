@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Singkat</title>
+    <style>
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #f4e1e1;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}
+        h1 {text-align: center;color: #440c36;}
+        .profile-img {
+            display: block;
+            margin: 0 auto;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover; }
+        p {margin: 5px 0;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Biodata Saya</h1>
+        <img src="swagy cat.jpg" alt="Foto Profil" class="profile-img">
+        
+        <p><strong>Nama:</strong> Khayla Levina</p>
+        <p><strong>Tanggal Lahir:</strong> 19 January 2005</p>
+        <p><strong>NPM:</strong> G1A023045</p>
+        <p><strong>Email:</strong> khayla.levina@gmail.com</p>
+        <p><strong>Telepon:</strong> +62 822-8914-4690</p>
+    </div>
+</body>
+</html>
